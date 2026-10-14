@@ -4,7 +4,7 @@ Logic Gate Lab is a small web app that shows how logic gates work. Pick a gate, 
 
 Live demo: https://YOUR-USERNAME.github.io/Logic-Gate-Lab/
 
-Built with: HTML, CSS and JavaScript. Created with help from Claude (AI).
+Built with: HTML, CSS and JavaScript.
 
 What this project shows: Every digital chip is built from simple gates like AND, OR, NOT and XOR. Each gate takes 1s and 0s and gives back a 1 or 0, and a truth table lists every possible result. Combining XOR and AND gates makes a full adder, which adds two bits plus a carry. Chaining eight of them adds two bytes.
 
