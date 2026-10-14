@@ -2,7 +2,7 @@
 
 Logic Gate Lab is a small web app that shows how logic gates work. Pick a gate, flip the input switches, and watch the output lamp and truth table update. A second section shows a full adder, the circuit a CPU uses to add numbers.
 
-Live demo: https://YOUR-USERNAME.github.io/Logic-Gate-Lab/
+Live demo: https://rajshrestha-07.github.io/Logic-Gate-Lab/
 
 Built with: HTML, CSS and JavaScript.
 
